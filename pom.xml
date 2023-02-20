@@ -99,6 +99,7 @@
         <enforcerPluginVersion>1.4</enforcerPluginVersion>
         <jarPluginVersion>2.6</jarPluginVersion>
         <javadocPluginVersion>2.10.3</javadocPluginVersion>
+<!--        <javadocPluginVersion>3.2.0</javadocPluginVersion>-->
         <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
         <arguments />
         <gpg.keyname>67893CC4</gpg.keyname>
@@ -597,6 +598,7 @@
                 <enforcerPluginVersion>3.0.0-M3</enforcerPluginVersion>
                 <jarPluginVersion>3.2.0</jarPluginVersion>
                 <javadocPluginVersion>3.2.0</javadocPluginVersion>
+<!--                <javadocPluginVersion>2.10.3</javadocPluginVersion>-->
             </properties>
             <build>
                 <plugins>
